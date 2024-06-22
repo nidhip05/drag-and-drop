@@ -26,13 +26,6 @@ const activities = [
     desc: "changed project description",
     date: "Sep 1",
   },
-  {
-    icon: <GrAttachment className="text-white" />,
-    color: "rgb(249 115 22 / var(--tw-bg-opacity))",
-    name: "Alex",
-    desc: "uploaded 3 documents",
-    date: "Dec 10",
-  },
 ];
 
 const RecentActivity = () => {
