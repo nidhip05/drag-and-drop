@@ -3,7 +3,7 @@
 The Desktop Drag-and-Drop Task Manager is a web application built with React and JavaScript, featuring drag-and-drop functionality using react-dnd and react-dnd-html5-backend. Designed specifically for desktop environments, it allows users to efficiently manage tasks across three sections: Todo, In Progress, and Completed. 
 
 
-# Key Features: 
+# Key Features
 
 - ## Intuitive Drag-and-Drop
   Seamlessly move tasks between Todo, In Progress, and Completed lists for streamlined task management
